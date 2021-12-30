@@ -1,0 +1,6 @@
+1.Extension 
+Format Of Saving The kivy extension is .kv file
+2.Naming:
+The Naming makes much critical
+name must be your app class name
+file name should be lower case letter
